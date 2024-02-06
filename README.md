@@ -32,7 +32,7 @@ The Chrome extension extends the functionality of the website by enabling users 
 - Controls to start, pause, resume, and stop reading.
 - Automatic detection and reading of the main textual content of a page.
 
-### How to Install
+### How to Install manually 
 
 1. Clone this repository or download the ZIP file.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
