@@ -1,0 +1,77 @@
+body {
+  user-select: none;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  background-color: #252525;
+  color: #d0d0d0;
+}
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(material-icons.woff2) format('woff2');
+  font-family: 'Lato', sans-serif;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+
+.text-muted {
+  color: #999 !important;
+}
+.surface {
+  background-color: #323232;
+}
+.primary {
+  background-color: #bb86fc;
+  color: black;
+}
+ .secondary {
+  background-color: #03dac6;
+  color: black;
+}
+
+.modal-backdrop {
+  display: none;
+}
+
+.link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.text-pre-wrap {
+  white-space: pre-wrap;
+}
+
+#buttons .button-1 {
+  color: white; /* Icon color */
+  background-color: black; /* Background color */
+  padding: 10px; /* Add some padding around the icons */
+  margin: 5px; /* Add some space between the icons */
+  border: none; /* Remove border */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition for background and color */
+}
+
+/* Styling for buttons on hover */
+#buttons .button-1:hover {
+  color: black; /* Icon color on hover */
+  background-color: white; /* Background color on hover */
+  border: 1px solid black; /* Optional: add border on hover for better visibility */
+}
