@@ -1,6 +1,6 @@
 # Narrator-Plus (Still under development)
 
-This repository hosts both a website and a Chrome extension designed to enhance web accessibility by providing text-to-speech functionality. The website offers users the ability to input text and have it read aloud, while the Chrome extension allows users to have the content of any webpage read to them.
+This repository hosts both a website and a browser extension designed to enhance web accessibility by providing text-to-speech functionality. The website offers users the ability to input text and have it read aloud, while the Chrome extension allows users to have the content of any webpage read to them(in any language).
 
 ## Website
 
