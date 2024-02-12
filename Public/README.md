@@ -1,1 +1,2 @@
-# this is a public file
+# PUBLIC
+The contents of this file is public.
