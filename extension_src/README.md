@@ -1,43 +1,33 @@
-# Narrator+ (Browser Extension)
+# Narratoe + (Browser Extension)
+>Note: This browser extension will soon be available on Chrome
+## Description
 
-Narrator Plus is a browser extension designed to enhance web accessibility and user experience by providing a seamless text-to-speech service. This extension aims to make the web more accessible for individuals with visual impairments, reading difficulties, or those who simply prefer auditory learning.
+The browser extension enhances the functionality of the website by enabling users to have the content of any webpage read aloud to them in over 200 languages. With intuitive controls integrated directly into the browser, users can effortlessly listen to articles, blog posts, and web pages without the necessity for additional software. This feature-rich extension offers a seamless audio experience across a multitude of languages, making it an invaluable tool for diverse audiences worldwide.
 
 ## Features
 
-- Text-to-Speech: Convert any web page text into speech, enhancing the browsing experience for visually impaired users or those who prefer listening over reading.
-- Custom Voices: Personalize your experience by selecting from a variety of voices and speech rates.
-- Language Support: Offers support for multiple languages, making it versatile and user-friendly for a global audience.
-- Easy Navigation: Use keyboard shortcuts for easy access to Narrator Plus features without disrupting your browsing experience.
-- PDF Viewer: Includes a built-in PDF viewer with text-to-speech functionality, making it easier to listen to documents directly within your browser.
+- Read aloud the content of the current webpage in over 200 languages.
+- Controls to start, pause, resume, and stop reading, offering users complete command over the listening experience.
+- Automatic detection and reading of the main textual content of a page, ensuring that users hear only the most relevant information.
+- Extensive language support, making it accessible to a global audience and enhancing comprehension for non-native speakers.
 
-## Installation
+## How to Install manually(Google Chrome)
 
-1. Download the Narrator Plus extension from the [GitHub repository](https://github.com/sherwinvishesh/Narrator-Plus).
-2. In your browser, navigate to `chrome://extensions/` and enable Developer Mode.
-3. Click on "Load unpacked" and select the extracted folder of Narrator Plus.
-4. The extension will now appear in your browser's extension list and is ready for use.
+1. Clone this repository.
+  ```bash
+  git clone https://github.com/sherwinvishesh/Narrator-Plus.git
+  cd Narrator-Plus
+  cd extension_src
+  ```
+2. The source code is in the extenson_src file, compress this file
+2. Open Google Chrome and navigate to `chrome://extensions/`.
+3. Enable "Developer mode" at the top-right corner.
+4. Click "Load unpacked" and select the directory containing the Chrome extension.
+5. The extension should now be installed and will appear in your toolbar.
 
-## Usage
+## How to Use
 
-After installation, the Narrator Plus icon will be visible in your browser's extension toolbar. Click on it to activate the text-to-speech service on any webpage. Additional settings and customizations, such as voice selection and speech rate, can be accessed through the extension's options.
-
-## Contributing
-
-We welcome contributions from the community! If you're interested in improving Narrator Plus, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgments
-
-- Special thanks to all contributors who have helped in developing Narrator Plus.
-- Hat tip to anyone whose code was used as inspiration or directly incorporated into this project.
-
-For more detailed information on installation and usage, please refer to the extension's documentation provided within the project files.
+1. Navigate to a webpage you want to be read aloud.
+2. Click the extension icon in your Chrome toolbar.
+3. In the popup, click "Start Reading" to begin. Use the "Pause", "Resume", and "Stop" buttons to control playback.
+4. Go to settings and select your preferences, including choosing from over 200 languages and 300 different voice types to customize your listening experience.
