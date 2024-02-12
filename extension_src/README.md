@@ -1,4 +1,4 @@
-# Narratoe + (Browser Extension)
+# Narrator + (Browser Extension)
 >Note: This browser extension will soon be available on Chrome
 ## Description
 
