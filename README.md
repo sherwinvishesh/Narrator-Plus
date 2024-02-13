@@ -24,8 +24,7 @@ The website component of this project allows users to enter text into a text are
 2. Run `Index.html` by clicking it or use a IDE to edit the code.
 
 
-## Browser Extension
->Note: This browser extension will soon be available on Chrome
+## Browser Extension [(Click Here)](https://chromewebstore.google.com/detail/narrator-+/djclbfgfmccddcmdlakdcogeknbeagdc)
 ### Description
 
 The browser extension enhances the functionality of the website by enabling users to have the content of any webpage read aloud to them in over 200 languages. With intuitive controls integrated directly into the browser, users can effortlessly listen to articles, blog posts, and web pages without the necessity for additional software. This feature-rich extension offers a seamless audio experience across a multitude of languages, making it an invaluable tool for diverse audiences worldwide.
