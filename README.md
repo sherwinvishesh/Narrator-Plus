@@ -68,7 +68,7 @@ If you encounter any issues or have any questions, please submit an issue on the
 
 ## License
 
-This project is licensed under [MIT](LICENSE)
+This project is licensed under [Apache-2.0 license](LICENSE)
 
 ## Acknowledgements
 
